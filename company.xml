@@ -1,0 +1,31 @@
+<!doctype mydata "http://www.jobadda/db">
+<db>
+<Companies>
+    <company>
+       <company_id>434</company_id>
+       <company_name>dena</company_name>
+       <company_person>yesitela worku</company_person>
+       <company_contact>11868887767</company_contact>
+       <company_details>Flour manufacturing campany</company_details>
+       <company_status>active </company_status>
+    </company>
+        
+    <company>
+       <company_id>342</company_id>
+       <company_name>alsam</company_name>
+       <company_person>Gemechu lamena</company_person>
+       <company_contact>118934979</company_contact>
+       <company_details>foreign exchange comapny</company_details>
+       <company_status>passive</company_status>
+    </company>
+
+    <company>
+       <company_id>67</company_id>
+       <company_name>nas</company_name>
+       <company_person>terfu azmach</company_person>
+       <company_contact>11656565656</company_contact>
+       <company_details>food processing comapny</company_details>
+       <company_status>passive</company_status>
+    </company>
+</Companies>
+</db>

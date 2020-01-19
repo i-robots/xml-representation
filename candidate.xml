@@ -1,0 +1,40 @@
+<!doctype mydata "http://www.jobadda/db">
+<db>
+<Candidates>
+    <candidate>
+        <candidate_id>1001</candidate_id>
+        <username>robert@12</username>
+        <que_id>200</que_id>
+        <Ans>accepted</Ans>
+        <first_name>Robert Roberts</first_name>
+        <gender>male</gender>
+        <conatct_no>0987646464</contact_no>
+        <dob>1990/05/26</dob>
+        <profile_status>active</profile_status>
+    </candidate>
+
+    <candidate>
+        <candidate_id>1003</candidate_id>
+        <username></username>
+        <que_id>210</que_id>
+        <Ans>accepted</Ans>
+        <first_name>serina wiliams</first_name>
+        <gender>female</gender>
+        <conatct_no>098343433</contact_no>
+        <dob>1991/05/26</dob>
+        <profile_status>active</profile_status>
+    </candidate>
+
+    <candidate>
+        <candidate_id>1001</candidate_id>
+        <username></username>
+        <que_id>200</que_id>
+        <Ans>accepted</Ans>
+        <first_name>Mark marks</first_name>
+        <gender>male</gender>
+        <conatct_no>0987676767</contact_no>
+        <dob>1994/05/26</dob>
+        <profile_status>active</profile_status>
+    </candidate>
+</Candidates>
+</db>

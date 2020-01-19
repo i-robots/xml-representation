@@ -1,0 +1,19 @@
+<!doctype mydata "http://www.jobadda/db">
+<db>
+<Questions>
+    <Question>
+       <que_id>056</que_id>
+       <Que>what additional offers has the cleaner jobd?</Que>
+    </Question>
+
+    <Question>
+       <que_id>066</que_id>
+       <Que>Is the job urgent?</Que>
+    </Question>
+
+    <Question>
+       <que_id>086</que_id>
+       <Que>what's the company name?</Que>
+    </Question>
+</Questions>
+</db>
